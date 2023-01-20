@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a network consultant by internet service providers 
+- 🌱 I’m currently learning advanced network automation
+- 👯 I’m looking to collaborate on network automation projects
+- 💬 Ask me about Carrier Ethernet Services, Routing Protocols, GPON, SDWAN, Monitoring... etc
+
+send me an email  emorillo@netcontrol.com.co
+
 <!--
 **expmorilloe/expmorilloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
