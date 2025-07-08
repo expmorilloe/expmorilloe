@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a network consultant by internet service providers 
+- 🔭 I’m currently working as a network consultant for internet service providers 
 - 🌱 I’m currently learning advanced network automation
 - 👯 I’m looking to collaborate on network automation projects
 - 💬 Ask me about Carrier Ethernet Services, Routing Protocols, GPON, SDWAN, Monitoring... etc
